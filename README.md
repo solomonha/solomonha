@@ -10,8 +10,7 @@
 - 📫 How to reach me: hsol37@gmail.com
 - ⚡ Fun fact: **i love to code and play football**
 
-## Languages & Tools:
-html5 css3 sass bootstrap jquery javascript typescript react nodejs vuejs php   firebase git      
+  
  
 
 
