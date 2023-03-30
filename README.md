@@ -11,7 +11,9 @@
 - ⚡ Fun fact: **i love to code and play football**
 
 ## Connect with me:
- https://twitter.com/solomonEng27
- https://www.linkedin.com/in/solomon-hailemichael-81a37322b/
+ ![image](https://user-images.githubusercontent.com/11436435/228776571-adc257a7-5dd1-483a-b142-d6c1fafb11ba.png) **https://twitter.com/solomonEng27*
+ ![image](https://user-images.githubusercontent.com/11436435/228777724-2ca79ed6-71f6-40aa-b912-4bdd58234801.png) https://www.linkedin.com/in/solomon-hailemichael-81a37322b/
+ 
+
 
 
